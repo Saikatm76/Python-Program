@@ -1,0 +1,5 @@
+str=input('Enter a String: ')
+r1=input('Enter the old character: ')
+r2=input('Enter the new character: ')
+r3=str.replace(r1,r2)
+print('New String Is',r3)
